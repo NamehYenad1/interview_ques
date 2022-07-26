@@ -91,6 +91,7 @@ const startGame = (numPlayers) => {
     }
 
     let res = players.sort(({ score: a }, { score: b }) => b - a);
+    console.log('Final Results: ')
     console.log(res);
     return res
 }

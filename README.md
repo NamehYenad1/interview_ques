@@ -1,7 +1,7 @@
 
 # Card Game
 
-A card game created for technical interview
+A card game created for technical interview. Enter Ctrl+C to skip all options and to get to the end of the program for a quick test
 
 
 
